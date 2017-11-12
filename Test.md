@@ -1,2 +1,1 @@
-# ClientVK
-Client for VK (GB)
+Привет !
